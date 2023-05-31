@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "5d21af84bf4fdee0bac9ab2b3f334455c958bf09c9e835ea5576d448d2c136fe"
+hash = "80ddd3feddca89a570f22b7ce2c2398790368e87abcbfc0b80a96737b82bca94"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
