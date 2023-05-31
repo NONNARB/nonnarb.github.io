@@ -1,0 +1,180 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "48a1be62231995c1870fd839f9262470235e1c52f8ba07b36daceee50e8580d4"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "b8383ee09905f9830decedaf8a69d71762e85d5eeebee325f543e9d40aa711e6"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "4784c4a537f58202f40d78552a04f5c8221a2ee362e5fca42262e9415fe2295b"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "9a0923ead8905649bc1260301508dc349ec7dd134fd8278a67e144d1f3ed68df"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "e79c0c7ce7d67628a19b74480d9d3fe0dfd2bf1cbb5505d167f033815c3d84a7"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "5f9b7f4b90ef2682032cfbda22f4578457d30e7f98461906713524f549262d73"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "5d21af84bf4fdee0bac9ab2b3f334455c958bf09c9e835ea5576d448d2c136fe"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "5ee9dff1042922fa3ecc44662dfe73a7054cbd4c2c5729d594506208c990dc4e"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "127dae4d350f24297cb30024520ca7f9379344f9112bfffb1d98d0dd6779326f"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
+metafile = true
+
+[[files]]
+file = "mods/goated.pw.toml"
+hash = "a2b6df8297c23d31ea1ba359a8e04830d11105b7dc6edf8b151ce9c7a8efb160"
+metafile = true
+
+[[files]]
+file = "mods/haunted-harvest.pw.toml"
+hash = "f034beb1ea35be2fbc4fed3b946c2c3d4dd0215299cf4e83fb31a712038c2589"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
+file = "mods/little-logistics.pw.toml"
+hash = "dfefbf3a86f5b23494c42785eba1e688f6d1156135d07b023945852312680557"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "716092a7fedb190493bb8b10e5009511f3e8e3e000835aead242f83606b587c0"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0b8ad37ee1bbf8eb65e7f32cfd52b589db3b47e738204c41728ec56f99afcf74"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "f6cc47777418eada79b50d6cdd57bd6dc35017f8e46defd5e888a2d6215be0e1"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+metafile = true
+
+[[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "13c88dde7a2157bbe8e803fc9a46a765c9c7392ff724cbe3855ae84f1f77e91b"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "934115dd157d2e040da75153198ff497099b2fb5d8141fa543a39ad461e217cd"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "9f392f9749a83036acb8b59b0023f385f495b327ee576a291137aade517982e7"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "5699c0f9c7aae8254080b512f9dff5822fc6b82b9541b48f363b2810cf47119b"
+metafile = true
+
+[[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "8a9e44014f4c992a645ef27c3289877743e19d73fa318fedf732d6beb0c3ec52"
+metafile = true
+
+[[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "2fd070334ef125f06d2946de5a5215266f2125b864c0537ad37ae182e9864466"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "e5193ed1544359284f88c9882d32d918ebf237015a03daadfbbb8d1fe71e22ab"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "ff2933697a23fa143d2b71421a7bee194d02ec5a24bf54537d3febdb19678c65"
+metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"

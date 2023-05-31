@@ -1,0 +1,13 @@
+name = "bigstankytortilla"
+author = "brody"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3ca2412bbf8b4f68e2e610ee22e6e1ef14fdd0eeea9d9e504e8df049f5ac562f"
+
+[versions]
+forge = "43.2.13"
+minecraft = "1.19.2"
